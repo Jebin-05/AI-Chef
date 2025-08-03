@@ -32,7 +32,9 @@ Run the Streamlit application of your choice:
 
 - Main application:
   ```bash
-  streamlit run app.py
+  streamlit Qwen2.py (Using Qwen 2 VLM)
+  streamlit Qwen2.5.py (Using Qwen 2.5 VLM)
+
   ```
 - Cloud-based Gemini interface:
   ```bash
